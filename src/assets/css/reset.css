@@ -1,0 +1,133 @@
+a {
+  cursor: pointer;
+  color: #c30;
+}
+
+.w {
+  width: 1208px;
+  min-width: 1208px;
+  margin: 0 auto;
+}
+
+.blue {
+  color: #4DD0C8 !important;
+}
+
+.clearfix {
+  zoom: 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  line-height: 0;
+  content: "";
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+li {
+  list-style: none;
+}
+
+.font-shadow {
+  color: #999;
+  font-size: 12px;
+}
+
+.font-grey{
+  color: #666;
+}
+
+.f16{
+	font-size: 16px;
+}
+
+.f12{
+	font-size: 12px;
+}
+
+.f14{
+	font-size: 14px;
+}
+
+.f20{
+  font-size: 20px;
+}
+
+.fl{
+	float: left;
+}
+
+.fr{
+	float: right;
+}
+
+.mb20{
+  margin-bottom: 20px;
+}
+
+.nuomi-red{
+	color: #fc4984;
+}
+
+.nuomi-orange{
+  color: #fd8e51;
+}
+
+.font-gray{
+  color: #666;
+}
+
+.font-shadow{
+  color: #999;
+}
+
+.center{
+  text-align: center;
+}
+
+.main{
+  width: 100%;
+  height: 100vh;
+}
+
+.main .el-scrollbar__wrap{
+  overflow-x: auto;   
+}
+
+.login-form .el-form-item__error{
+  left: 60px !important; 
+}
+
+.login-form .el-input-group__prepend{
+  cursor: pointer;
+}
+
+.loginContent .el-input-group__prepend{
+  border-radius: 0;
+  border: none; 
+  padding: 0 10px;  
+  background-color: #fbfdff;  
+}  
+
+.loginContent .el-input__inner{
+  border-radius: 0;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}  
+
+.loginContent .el-form-item__error{
+  left: 33px;
+}
+
+.mainSideLeft .el-submenu__title:hover {
+  background: #2a2a2a;
+}
+
+.mainSideLeft .el-menu-item-group__title{
+  padding: 0px;
+}
